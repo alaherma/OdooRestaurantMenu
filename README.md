@@ -1,6 +1,6 @@
 # OdooRestaurantMenu
 An Odoo Addon that lets you order your food directly from a mobile device , the aim is to make the UX more 
-friendly than the POS so:
+friendly than the POS module so:
 
     -The waiter can use a tablet to take the order without compromising human conection with the customer. Less clicks 
     more eye contant and conversation
